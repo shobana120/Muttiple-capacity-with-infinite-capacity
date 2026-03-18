@@ -16,9 +16,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
-Name:PRIYADHARSHINI.E
-Reg no:212225040318
-Slot no:T1-I5
+
+# NAME:SHOBANA
+# REGNO:212224230262
 
  ```
 arr_time_input = '' 
